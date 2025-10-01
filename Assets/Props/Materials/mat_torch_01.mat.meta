@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 623584845ff1d274dbb4f69e31d71760
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29140
+  packageName: Viking Village URP
+  packageVersion: 1.1.1
+  assetPath: Assets/Viking Village/Models/Props/Materials/mat_torch_01.mat
+  uploadId: 496047
