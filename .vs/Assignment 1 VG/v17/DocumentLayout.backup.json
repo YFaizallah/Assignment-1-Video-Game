@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoyom\\Assignment 1 VG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\FlashLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FlashLight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorPromptTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorPromptTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\UIToast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIToast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\LockedDevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LockedDevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PickupItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PickupItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorAutoOpenTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorAutoOpenTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorTestKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorTestKey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DrawTriggerGizmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DrawTriggerGizmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DayNightCycleURP2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DayNightCycleURP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DayNightCycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\CameraSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlashLight.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\FlashLight.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashLight.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\FlashLight.cs",
+              "RelativeToolTip": "Assets\\FlashLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:07:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIToast.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\UIToast.cs",
+              "RelativeDocumentMoniker": "Assets\\UIToast.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\UIToast.cs",
+              "RelativeToolTip": "Assets\\UIToast.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:42:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LockedDevice.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\LockedDevice.cs",
+              "RelativeDocumentMoniker": "Assets\\LockedDevice.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\LockedDevice.cs",
+              "RelativeToolTip": "Assets\\LockedDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:35:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickupItem.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PickupItem.cs",
+              "RelativeDocumentMoniker": "Assets\\PickupItem.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PickupItem.cs",
+              "RelativeToolTip": "Assets\\PickupItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:22:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:18:49.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorPromptTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorPromptTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorPromptTrigger.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorPromptTrigger.cs",
+              "RelativeToolTip": "Assets\\DoorPromptTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T00:38:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DrawTriggerGizmo.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DrawTriggerGizmo.cs",
+              "RelativeDocumentMoniker": "Assets\\DrawTriggerGizmo.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DrawTriggerGizmo.cs",
+              "RelativeToolTip": "Assets\\DrawTriggerGizmo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:21:40.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoorTestKey.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorTestKey.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorTestKey.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorTestKey.cs",
+              "RelativeToolTip": "Assets\\DoorTestKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:15:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoorController1.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController1.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorController1.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController1.cs",
+              "RelativeToolTip": "Assets\\DoorController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:27:44.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoorAutoOpenTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorAutoOpenTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorAutoOpenTrigger.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorAutoOpenTrigger.cs",
+              "RelativeToolTip": "Assets\\DoorAutoOpenTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:25:58.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorController.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DoorController.cs",
+              "RelativeToolTip": "Assets\\DoorController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:24:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DayNightCycleURP2.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP2.cs",
+              "RelativeDocumentMoniker": "Assets\\DayNightCycleURP2.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP2.cs",
+              "RelativeToolTip": "Assets\\DayNightCycleURP2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:27:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DayNightCycleURP.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP.cs",
+              "RelativeDocumentMoniker": "Assets\\DayNightCycleURP.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycleURP.cs",
+              "RelativeToolTip": "Assets\\DayNightCycleURP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:25:22.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\DayNightCycle.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\DayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:06:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\CameraSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraSwitcher.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\CameraSwitcher.cs",
+              "RelativeToolTip": "Assets\\CameraSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:50:03.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Starter Assets\\Runtime\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAUwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:24:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PerspectiveSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\PerspectiveSwitcher.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAUwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:38:30.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PerspectiveSwitcherV3.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\PerspectiveSwitcherV3.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:27:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "C:\\Users\\yoyom\\Assignment 1 VG\\Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T13:56:35.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
